@@ -1,4 +1,4 @@
-# 기본 계산기
+# 기본 계산기git
 
 # 덧셈
 def add(a, b):
@@ -13,5 +13,5 @@ def multiply(a, b):
   return a*b
 
 # 나눗셈
-def divide(a, b):
+def divide_premium(a, b):
     return a/b
