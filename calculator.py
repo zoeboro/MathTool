@@ -13,5 +13,5 @@ def multiply(a, b):
   return a*b
 
 # 나눗셈
-def divide_premium(a, b):
+def divide_new(a, b):
     return a/b
