@@ -14,7 +14,4 @@ def multiply(a, b):
 
 # 나눗셈
 def divide_free(a, b):
-  return a/b
-
-def square(a):
-  return a*a
+    return a/b
